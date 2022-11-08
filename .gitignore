@@ -94,6 +94,9 @@ typings/
 .DS_Store
 Thumbs.db
 
+# Editor cruft
+Session.vim
+
 # Ignore built ts files
 __tests__/runner/*
 lib/**/*
